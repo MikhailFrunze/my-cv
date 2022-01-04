@@ -1,1 +1,1 @@
-# my-cv
+https://MikhailFrunze.github.io/my-cv/cv
