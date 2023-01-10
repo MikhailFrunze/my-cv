@@ -75,6 +75,20 @@ overcome occasional technical issues and find solutions.
 
 # Education and training
 
+## Front-end web developer
+
+***Tel-Ran.de GmbH*** [ 21/09/2021 – 08/02/2023 ]
+
+**Address:** Berlin (Germany)
+
+Developed skills:
+
+HTML, CSS, Javascitpt, React, Redux
+
+Basic skills:
+
+Java, Selenium, Selenide, Cucumber, Gherkin, MySQL, MongoDB, Linux, GitHub
+
 ## Master Degree in Conference Translation and Interpreting
 
 ***Moldova State University - The Faculty of Foreign Languages and Literatures*** [ 01/09/2015 - 07/06/2017 ]
