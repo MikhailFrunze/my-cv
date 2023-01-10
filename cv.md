@@ -17,7 +17,13 @@
 
 ## Warehouse assistant
 
-***Monowii Textilmanagement GmbH & Co KG*** [ 12/11/2018 - Current ]
+***Hospilog GmbH & Co KG*** [ 01/04/2022 - Current ]
+
+**Address:** Siegen (Germany)
+
+## Warehouse assistant
+
+***Monowii Textilmanagement GmbH & Co KG*** [ 12/11/2018 - 28/03/2022 ]
 
 **Address:** Felinghausen (Germany)
 
