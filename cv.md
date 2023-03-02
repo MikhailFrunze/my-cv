@@ -1,7 +1,7 @@
 ## Mihail Frunze
 
 
-<img src="https://media.licdn.com/dms/image/C4D03AQFO6gB92AGDOg/profile-displayphoto-shrink_800_800/0/1641391209369?e=1677110400&v=beta&t=GyGSuEFEWcW860QbgfXw0xM8-_VpsRJ-PGhExcU8aX8" alt="Mihail Frunze' photo" width="200"/>
+<img src="https://cdn.join.com/6400e75a17d33900084011c3/user-picture-join-xl.jpg" alt="Mihail Frunze's photo" width="200"/>
 
 **Nationality:** Romanian
 
