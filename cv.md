@@ -128,31 +128,9 @@ Soft skills
 
 # Language skills
 
-Mother tongue:
+Fluent in: German, English, Romanian and Russian
 
-**Romanian**
-
-Other languages:
-
-**Russian**
-
-**Listening** C1 **Reading** C1 **Writing** C1 **Spoken production** C1 **Spoken interaction** C1
-
-**English**
-
-**Listening** C1 **Reading** C1 **Writing** C1 **Spoken production** C1 **Spoken interaction** C1
-
-**French**
-
-**Listening** B1 **Reading** B1 **Writing** B1 **Spoken production** B1 **Spoken interaction** B1
-
-**German**
-
-**Listening** B1 **Reading** B1 **Writing** B2 **Spoken production** B1 **Spoken interaction** B1
-
-**Polish**
-
-**Listening** A1 **Reading** A1 **Writing** A1 **Spoken production** A1 **Spoken interaction** A1
+Communication level: French and Polish
 
 # Job-related skills
 
